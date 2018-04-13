@@ -5,7 +5,7 @@ settings = (function() {
 	
 	// Default values for various user settings.
 	const defaultValues = {
-		"documentContent": "Put your goals here",
+		"documentContent": "Root\n\tTurn tab-indented lists into mind maps\n\t\tPress Tab to indent lines\n\t\tPress Shift + Tab to unindent lines\n\tDrag nodes to re-organize them\n\tUse ' to screen the symbols '[ and ']\n\t\tAdd '[+'] to the end of goal to mark it completed [+]\n\t\tAdd '[~'] to the end of the goal to mark it 'in progress' [~]\n\t\tAdd '[-'] to the end of the goal to mark it rejected [-]",
 		"documentTitle": "Untitled Document"
 	};
 
