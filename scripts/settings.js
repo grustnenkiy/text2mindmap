@@ -5,7 +5,7 @@ settings = (function() {
 	
 	// Default values for various user settings.
 	const defaultValues = {
-		"documentContent": "Root\n\tTurn tab-indented lists into mind maps\n\t\tPress Tab to indent lines\n\t\tPress Shift + Tab to unindent lines\n\tDrag nodes to re-organize them\n\tUse ' to screen the symbols '[ and ']\n\t\tAdd '[+'] to the end of task to mark it completed [+]\n\t\tAdd '[~'] to the end of the task to mark it 'in progress' [~]\n\t\tAdd '[-'] to the end of the task to mark it rejected [-]",
+		"documentContent": "Root\n\tTurn tab-indented lists into mind maps\n\t\tPress Tab to indent lines\n\t\tPress Shift + Tab to unindent lines\n\tDrag nodes to re-organize them\n\tUse ' to screen the symbols '[ and ']\n\t\tAdd '[+'] to the end of the task to mark it completed [+]\n\t\tAdd '[~'] to the end of the task to mark it 'in progress' [~]\n\t\tAdd '[-'] to the end of the task to mark it rejected [-]",
 		"documentTitle": "Untitled Document"
 	};
 
